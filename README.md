@@ -6,7 +6,7 @@ Manuell:
 1. Lade die Zip-Datei herunter und entpacke sie in gewünschten Verzeichnis
 2. Installiere die benötigten Module
 ```
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 5. Führe die `install.py` zum einmaligen Installieren des Projektes aus
 ```
@@ -21,33 +21,17 @@ python3 main.py
 Momentan ist das Programm noch in der Entwicklungsphase, weshalb es zu Fehlern führen kann.
 Fehler können gerne auf GitHub gemeldet werden.
 
-<!--
-## Version Verlauf
 
-* 0.2.1
-    * CHANGE: Update docs (module code remains unchanged)
-* 0.2.0
-    * CHANGE: Remove `setDefaultXYZ()`
-    * ADD: Add `init()`
-* 0.1.1
-    * FIX: Crash when calling `baz()` (Thanks @GenerousContributorName!)
-* 0.1.0
-    * The first proper release
-    * CHANGE: Rename `foo()` to `bar()`
-* 0.0.1
-    * Work in progress
 
 ## Weitere Daten
 
-12tom12 – [](https://twitter.com/) – YourEmail@example.com
+lucagrosshennig – [](https://twitter.com/) – luca.grosshennig@gmx.de
 
-Distributed under the XYZ license. See ``LICENSE`` for more information.
-
-[https://github.com/12tom12](https://github.com/12tom12/)
+[https://github.com/lucagrosshennig](https://github.com/lucagrosshennig/)
 
 ## Contributing
 
-1. Fork it (<https://github.com/12tom12/whatsapp-bot/fork>)
+1. Fork it (<https://github.com/lucagrosshennig/Deeptalk-WebApp/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
@@ -59,4 +43,4 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 [travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
 [wiki]: https://github.com/yourname/yourproject/wiki
--->
+
