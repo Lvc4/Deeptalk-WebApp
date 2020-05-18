@@ -13,7 +13,7 @@ pip3 install -r requirements.txt
 ```
 python3 install.py
 ```
---!>
+-->
 3. Führe die `main.py` zum starten der Webapp aus
 ```
 python3 main.py
