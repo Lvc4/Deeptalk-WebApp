@@ -8,11 +8,13 @@ Manuell:
 ```
 pip3 install -r requirements.txt
 ```
+<!--
 5. Führe die `install.py` zum einmaligen Installieren des Projektes aus
 ```
 python3 install.py
 ```
-6. Führe die `main.py` zum starten der Webapp aus
+--!>
+3. Führe die `main.py` zum starten der Webapp aus
 ```
 python3 main.py
 ```
