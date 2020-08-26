@@ -1,5 +1,6 @@
 # Deeptalk - Webapp
 > Bringt eure Gespräche auf tiefere Ebenen. Stellt euch Fragen, die weit vom Smaltalk entfernt sind.
+> aktuell auf http://www.deeptalk.tk:8080/
 
 ## Installation
 Manuell: 
